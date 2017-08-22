@@ -1,2 +1,0 @@
-#! /bin/bash
-/sbin/restore && /sbin/my_init
